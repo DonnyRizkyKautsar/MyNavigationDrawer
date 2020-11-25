@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="nav_home" type="id">home</item>
+    <item name="nav_gallery" type="id">gallery</item>
+    <item name="nav_slideshow" type="id">slideshow</item>
+    <item name="nav_tools" type="id">tools</item>
+    <item name="nav_share" type="id">share</item>
+    <item name="nav_send" type="id">send</item>
+    <item name="nav_cart" type="id">nav_cart</item>
+</resources>
